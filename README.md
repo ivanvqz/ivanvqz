@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ivanvqz
+# 👋 Hi, I’m Ivan Vazquez - @ivanvqz
 - 👀 I’m interested in japanese culture, I love to see how people create their projects.
 - 🌱 I’m currently learning about web development and programming in Java, Python and C#.
 - 💞️ I’m looking to collaborate on littles projects to earn experience.
