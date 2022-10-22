@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Ivan Vazquez - @ivanvqz
+# 👋 ¡Hola!, me llamo Ivan Vazquez - @ivanvqz
 ## Sobre mi
 Soy desarrollador frontend. Mi herramienta de trabajo es JavaScript, me gusta mucho el acosistema de React. Siempre me gusta aprender algo nuevo todos los días. <br>
 <!--- 
