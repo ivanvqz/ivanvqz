@@ -11,7 +11,7 @@ Soy desarrollador frontend. Mi herramienta de trabajo es JavaScript, me gusta mu
 - [My facebook](https://www.facebook.com/ivanvqz103)
 - [Linkedln](www.linkedin.com/in/ivanvqz103)
 - [Twitter](https://twitter.com/ivanvz172)
-- [Mi portafolio](https:/ivanvazquez.vercel.app/)
+- [Mi portafolio](https://ivanvazquez.vercel.app/)
 
 <!---
 ivanvqz/ivanvqz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
